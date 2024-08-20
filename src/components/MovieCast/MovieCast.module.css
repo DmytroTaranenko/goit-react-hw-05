@@ -1,0 +1,16 @@
+.castList{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.castItem{
+    width: 200px;
+    padding: 10px;
+}
+
+.imageActor{
+    width: 200px;
+    height: 200px;
+}

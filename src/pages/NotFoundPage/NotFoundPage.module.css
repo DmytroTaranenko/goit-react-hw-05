@@ -1,0 +1,32 @@
+.wrapNotFoundPage {
+  background-color: #f2f2f2;
+  text-align: center;
+  padding: 200px;
+}
+
+.oopsTitle {
+  font-size: 150px;
+  background: url("https://img.freepik.com/free-photo/space-background-with-stardust-and-shining-stars-realistic-colorful-cosmos-with-nebula-and-milky-way_1258-150925.jpg")
+    no-repeat center;
+  background-size: cover;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  margin-bottom: 50px;
+}
+
+.pageNotFoundTitle {
+  font-size: 30px;
+}
+.pageNotFoundDiscription {
+  font-size: 20px;
+}
+
+.linkBtn {
+  font-size: 40px;
+  display: block;
+  background: #333;
+  color: #fff;
+  border: 3px solid #333;
+  transition: all 0.35s;    
+}

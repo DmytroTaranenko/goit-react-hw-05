@@ -1,0 +1,16 @@
+.goBackBtn{
+    margin-bottom: 20px;
+}
+
+.movieDetailsPage{
+    padding: 20px;
+}
+.additionalLink:not(:last-child){
+margin-right: 10px;
+}
+
+.wrapDetails{
+    display: flex;
+    gap: 50px;
+    margin-top: 20px;
+}
